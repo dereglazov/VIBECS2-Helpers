@@ -29,8 +29,4 @@ VIBECS2 Helper — это современное desktop-приложение, �
 - Удобный просмотр пунктов правил;
 - Единая база информации для работы.
 
-/screenshots
 
- ├── main.png
- ├── rules.png
- └── about.png
