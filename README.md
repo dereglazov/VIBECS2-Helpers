@@ -30,6 +30,7 @@ VIBECS2 Helper — это современное desktop-приложение, �
 - Единая база информации для работы.
 
 /screenshots
+
  ├── main.png
  ├── rules.png
  └── about.png
